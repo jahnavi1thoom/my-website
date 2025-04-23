@@ -2,6 +2,7 @@
     "name": "quick-fuel-frontend",
     "version": "0.1.0",
     "private": true,
+    "homepage": "https://jahnavi1thoom.github.io/my-website",
     "dependencies": {
         "@react-google-maps/api": "^2.20.6",
         "@testing-library/jest-dom": "^5.16.5",
